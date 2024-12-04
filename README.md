@@ -1,5 +1,3 @@
-DAMAVISHNUVARDHAN/32Bit_ALU# 32Bit_ALU Simulation
-
 # Aim: 
 
 Write a verilog code for 32 bit ALU supporting four logical and four arithmetic operations,use case statement and if statement for ALU behavioral modeling.
@@ -225,23 +223,4 @@ Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 10:Simulation Waveform Window
 ![image](https://github.com/user-attachments/assets/38a1d527-0d8d-4ea0-b957-c96b452d99a5)
-
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
-
 
